@@ -1,0 +1,31 @@
+# Папки сборки
+build/
+cmake-build-*/
+out/
+
+# Исполняемые файлы
+library_system  # если в Linux
+library_system.exe  # если в Windows
+
+# Объектные файлы
+*.o
+*.obj
+
+# Файлы CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Лог-файлы программы (если не хотите коммитить)
+log.txt  # или *.log
+
+# Файлы IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Временные файлы
+*.tmp
+*.swp
+*~

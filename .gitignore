@@ -16,6 +16,7 @@ CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
+CMakeLists.txt
 
 # Лог-файлы программы (если не хотите коммитить)
 log.txt  # или *.log

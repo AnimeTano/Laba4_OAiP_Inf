@@ -1,1 +1,0 @@
-12-05-2025 17:19:20.732 [INFO] Database initialized successfully

@@ -5,9 +5,7 @@
 #include <vector>
 
 
-namespace pqxx {
-    class connection;
-}
+namespace pqxx {class connection;}
 
 
 class Author {
